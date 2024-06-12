@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,5 +15,18 @@ public class GitTest : MonoBehaviour
     void Update()
     {
         Debug.Log("Hello World");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
+        Console.WriteLine("asdffsda");
     }
 }
