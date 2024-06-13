@@ -14,6 +14,7 @@ public class GitTest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Debug.Log("1231");
         Debug.Log("Good bye!!");
     }
 }
