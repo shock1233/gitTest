@@ -15,5 +15,6 @@ public class GitTest : MonoBehaviour
     void Update()
     {
         Debug.Log("Good bye!!");
+        Debug.Log("1231");
     }
 }
